@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Because of You",
+  "base_artist": "Kelly Clarkson",
+  "createdAt": "2025-12-23T07:58:02.132153Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Because Of You",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/01_Because_Of_You_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Because Of You",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/02_Because_Of_You_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Because of You",
+      "artist": "Scanty Sandwich",
+      "has_synced": false,
+      "path": "select/03_Because_of_You_Scanty_Sandwich.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Because of You",
+      "artist": "Billy Ocean",
+      "has_synced": true,
+      "path": "select/04_Because_of_You_Billy_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Because of You",
+      "artist": "Dr. Alban",
+      "has_synced": false,
+      "path": "select/05_Because_of_You_Dr._Alban.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All Because of You",
+      "artist": "Robert Parker feat. Calderon",
+      "has_synced": true,
+      "path": "select/06_All_Because_of_You_Robert_Parker_feat._Calderon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All Because of You (feat. Calderon)",
+      "artist": "Robert Parker",
+      "has_synced": true,
+      "path": "select/07_All_Because_of_You_(feat._Calderon)_Robert_Parker.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Because Of You",
+      "artist": "C2C feat. Pigeon John",
+      "has_synced": true,
+      "path": "select/08_Because_Of_You_C2C_feat._Pigeon_John.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Because Of You (Feat. Pigeon John)",
+      "artist": "C2C",
+      "has_synced": true,
+      "path": "select/09_Because_Of_You_(Feat._Pigeon_John)_C2C.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Because of You",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/10_Because_of_You_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All Because of You",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/11_All_Because_of_You_U2.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Because of You",
+      "artist": "Alphaville",
+      "has_synced": false,
+      "path": "select/12_Because_of_You_Alphaville.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Because of You",
+      "artist": "Future feat. Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/13_Because_of_You_Future_feat._Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Because of You",
+      "artist": "Future & Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/14_Because_of_You_Future_&_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Because of You",
+      "artist": "Philip Bailey",
+      "has_synced": true,
+      "path": "select/15_Because_of_You_Philip_Bailey.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Because of You - Negative Love",
+      "artist": "The Subways",
+      "has_synced": true,
+      "path": "select/16_Because_of_You_-_Negative_Love_The_Subways.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Because of You",
+      "artist": "Kelly Clarkson",
+      "has_synced": false,
+      "path": "select/pl_01_Because_of_You_Kelly_Clarkson.txt"
+    }
+  ]
+}
